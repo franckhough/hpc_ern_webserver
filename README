@@ -1,0 +1,1 @@
+I have deleted the ssl.conf file from the /etc/httpd/conf.d directory to get rid of authentication for WebDAV alltogether
