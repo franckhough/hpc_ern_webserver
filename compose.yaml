@@ -1,0 +1,4 @@
+services:
+  ern_webserver:
+    image: houghfj/ern_webserver
+    build: . 
